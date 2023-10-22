@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421983699551",
+    "project_id": "loginsys-799cf",
+    "storage_bucket": "loginsys-799cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421983699551:android:d1b79c4a9f419cfd2a51ea",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8yAuC_ccWxbsI3MCxVNzumjyH0DNooGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
