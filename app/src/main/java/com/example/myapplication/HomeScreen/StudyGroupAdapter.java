@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.myapplication.HomeScreen;
 
 import android.graphics.Color;
 import android.view.LayoutInflater;
@@ -7,6 +7,9 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.myapplication.R;
+
 import java.util.List;
 import java.util.Random;
 
